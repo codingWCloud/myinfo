@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-    background-image: url(/assets/nature.jpg);
+    background-image: url(./assets/nature.jpg);
     display: flex;
     margin: 0 auto;
     height: 400px;
